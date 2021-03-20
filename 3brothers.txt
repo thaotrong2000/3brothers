@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcd
+=======
+no way go out
+>>>>>>> nvd3010
